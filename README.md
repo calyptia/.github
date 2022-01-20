@@ -1,2 +1,0 @@
-# .github
-Calyptia workflow templates
