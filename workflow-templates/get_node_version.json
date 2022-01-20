@@ -1,5 +1,0 @@
-{
-  "name": "Get node version from nvmrc",
-  "description": "This reusable workflow will retrieve node version from any package",
-  "categories": ["node, nodejs, nvmrc, version"]
-}
